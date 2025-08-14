@@ -23,5 +23,5 @@ API hujjatlari **drf-yasg** yordamida **Swagger UI** va **Redoc** formatida avto
 
 1. **Loyihani klonlash**
    ```bash
-   git clone https://github.com/USERNAME/student-api-view.git
-   cd student-api-view
+   git clone https://github.com/SardorToirov/API-VIEWS.git
+   cd API-VIEWS
